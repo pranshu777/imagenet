@@ -1,0 +1,2 @@
+==68863== NVPROF is profiling process 68863, command: python main.py --arch alexnet -b 32 --epochs 1 --lr 0.10 /beegfs/work/courses/2019-CSCI-GA-3033-025/imagenet_pytorch_small
+=> creating model 'alexnet'

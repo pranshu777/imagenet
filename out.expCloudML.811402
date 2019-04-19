@@ -1,0 +1,8 @@
+==116524== NVPROF is profiling process 116524, command: python main.py --arch resnet18 -b 64 --epochs 1 --lr 0.10 /beegfs/work/courses/2019-CSCI-GA-3033-025/imagenet_pytorch_small
+=> creating model 'resnet18'
+==116524== Execution timeout, stopping the application...
+/home/ps3588/pytorch_env/py3.6.3/lib/python3.6/site-packages/PIL/TiffImagePlugin.py:763: UserWarning: Possibly corrupt EXIF data.  Expecting to read 2555904 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+==116524== Profiling application: python main.py --arch resnet18 -b 64 --epochs 1 --lr 0.10 /beegfs/work/courses/2019-CSCI-GA-3033-025/imagenet_pytorch_small
+==116524== Profiling result:
+No events/metrics were profiled.

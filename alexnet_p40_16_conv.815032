@@ -1,0 +1,5 @@
+==2341== NVPROF is profiling process 2341, command: python main.py --arch alexnet -b 16 --epochs 1 --lr 0.10 /beegfs/work/courses/2019-CSCI-GA-3033-025/imagenet_pytorch_small
+=> creating model 'alexnet'
+==2341== Execution timeout, stopping the application...
+==2341== Error: Internal profiling error 4277:999.
+======== Error: CUDA profiling error.

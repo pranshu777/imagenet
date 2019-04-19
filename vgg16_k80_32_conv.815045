@@ -1,0 +1,5 @@
+==105798== NVPROF is profiling process 105798, command: python main.py --arch vgg16 -b 32 --epochs 1 --lr 0.10 /beegfs/work/courses/2019-CSCI-GA-3033-025/imagenet_pytorch_small
+=> creating model 'vgg16'
+==105798== Execution timeout, stopping the application...
+==105798== Error: Internal profiling error 4277:999.
+======== Error: CUDA profiling error.
